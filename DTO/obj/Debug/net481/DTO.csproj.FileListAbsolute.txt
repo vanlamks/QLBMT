@@ -1,0 +1,14 @@
+D:\NET\computer-store-manager\computer-store-managerr\DTO\bin\Debug\net481\DTO.dll
+D:\NET\computer-store-manager\computer-store-managerr\DTO\bin\Debug\net481\DTO.pdb
+D:\NET\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.csproj.AssemblyReference.cache
+D:\NET\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.csproj.CoreCompileInputs.cache
+D:\NET\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.dll
+D:\NET\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.pdb
+C:\Users\Admin\Downloads\computer-store-manager\computer-store-manager\computer-store-managerr\DTO\bin\Debug\net481\DTO.dll
+C:\Users\Admin\Downloads\computer-store-manager\computer-store-manager\computer-store-managerr\DTO\bin\Debug\net481\DTO.pdb
+C:\Users\Admin\Downloads\computer-store-manager\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\computer-store-manager\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\computer-store-manager\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\computer-store-manager\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.dll
+C:\Users\Admin\Downloads\computer-store-manager\computer-store-manager\computer-store-managerr\DTO\obj\Debug\net481\DTO.pdb

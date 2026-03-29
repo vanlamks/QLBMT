@@ -1,0 +1,7 @@
+{
+  "dotnet.preferCSharpExtension": true,
+  "files.exclude": {
+    "**/bin": true,
+    "**/obj": true
+  }
+}

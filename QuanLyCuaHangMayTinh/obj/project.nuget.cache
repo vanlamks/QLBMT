@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LztaNrW59g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\computer-store-manager\\computer-store-manager\\computer-store-managerr\\QuanLyCuaHangMayTinh\\QuanLyCuaHangMayTinh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\itextsharp\\5.5.13.5\\itextsharp.5.5.13.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net481\\1.0.3\\microsoft.netframework.referenceassemblies.net481.1.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1652.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1652.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.web.webview2\\1.0.3856.49\\microsoft.web.webview2.1.0.3856.49.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0 depends on Microsoft.SqlServer.Types (>= 14.0.0) but Microsoft.SqlServer.Types 14.0.0 was not found. Microsoft.SqlServer.Types 14.0.314.76 was resolved instead.",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\computer-store-manager\\computer-store-manager\\computer-store-managerr\\QuanLyCuaHangMayTinh\\QuanLyCuaHangMayTinh.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Admin\\Downloads\\computer-store-manager\\computer-store-manager\\computer-store-managerr\\QuanLyCuaHangMayTinh\\QuanLyCuaHangMayTinh.csproj",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8.1",
+        ".NETFramework,Version=v4.8.1/win-x86"
+      ]
+    }
+  ]
+}
