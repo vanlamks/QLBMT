@@ -66,24 +66,7 @@ Checklist được áp dụng cho tất cả đồ án
 {% img [class names] /images/Phan-mem-quan-ly-cua-hang-ban-may-tinh/18.png '18.png' '18.png' %}
 {% img [class names] /images/Phan-mem-quan-ly-cua-hang-ban-may-tinh/19.png '19.png' '19.png' %}
 {% img [class names] /images/Phan-mem-quan-ly-cua-hang-ban-may-tinh/20.png '20.png' '20.png' %}
-## Documentation
-📎  [PRIVATE Github computer-store-manager window1%20(1).docx](https://github.com/taminhluan/computer-store-manager/blob/master/b%C3%A0i-t%E1%BA%ADp-l%E1%BB%9Bn-l%E1%BA%ADp-tr%C3%ACnh-window1%20(1).docx)
-## Origin information
-🔗 [facebook luantm96](https://www.facebook.com/luantm96)
-🔗 [linkedin luantm](https://www.linkedin.com/in/luantm/)
-🔗 [gmail ngoalongtb001@gmail.com](ngoalongtb001@gmail.com)
-🔗 [gmail luantm96@gmail.com](luantm96@gmail.com)
 
-## Video
-No video
-## Github private
-https://www.linkedin.com/in/luantm/
-## Sharecode
-🔗 [Share code](https://sharecode.vn/source-code/phan-mem-quan-ly-cua-hang-ban-may-tinh-23017.htm)
-## Google drive
-[PRIVATE Google Drive](https://drive.google.com/open?id=1LNozu0SW-e3bSy2IM-IKC6R7H-qXlBq-kcuf)
-## Deploy
-No deploy - Desktop Software
 
 ## Setup
 Hướng dẫn cài đặt:
